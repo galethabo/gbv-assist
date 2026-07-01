@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "GBV Assist",
+    "slug": "gbv-assist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#6A0DAD"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app uses your location to help find nearby resources and to include location data in reports.",
+        "NSLocationAlwaysUsageDescription": "This app uses your location to help find nearby resources and to include location data in reports."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6A0DAD"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "FOREGROUND_SERVICE",
+        "RECEIVE_SMS",
+        "SEND_SMS",
+        "READ_PHONE_STATE",
+        "CALL_PHONE"
+      ],
+      "package": "com.yourcompany.gbvassist"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-location"
+    ]
+  }
+}
