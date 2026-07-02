@@ -8,13 +8,13 @@ Reporting GBV in South Africa remains challenging due to stigma, fear of retalia
 
 ## Key Features
 
-- **Anonymous & Secure Reporting** — victims can report incidents without creating an account, with optional multimedia evidence upload (photos, audio, documents)
-- **Emergency Alerts / Panic Button** — real-time alerts with GPS location sent to trusted contacts and/or emergency services
-- **Resource Directory** — searchable, verified list of NGOs, SAPS stations, shelters, clinics, and legal aid organisations by province/municipality
-- **Case Management & Tracking** — authorised staff can track report status and follow-ups
-- **24/7 Support Access** — chat/chatbot support and integration with the National GBV Command Centre (0800 428 428)
-- **Admin Dashboard** — analytics and trend reporting for authorised NGOs/government stakeholders
-- **Multilingual & Accessible UI** — support for English, isiZulu, isiXhosa, Afrikaans, and Sesotho, with text-to-speech/screen-reader compatibility
+- **Anonymous & Secure Reporting** - victims can report incidents without creating an account, with optional multimedia evidence upload (photos, audio, documents)
+- **Emergency Alerts / Panic Button** - real-time alerts with GPS location sent to trusted contacts and/or emergency services
+- **Resource Directory** - searchable, verified list of NGOs, SAPS stations, shelters, clinics, and legal aid organisations by province/municipality
+- **Case Management & Tracking** - authorised staff can track report status and follow-ups
+- **24/7 Support Access** - chat/chatbot support and integration with the National GBV Command Centre (0800 428 428)
+- **Admin Dashboard** - analytics and trend reporting for authorised NGOs/government stakeholders
+- **Multilingual & Accessible UI** - support for English, isiZulu, isiXhosa, Afrikaans, and Sesotho, with text-to-speech/screen-reader compatibility
 
 ## Tech Stack
 
@@ -39,7 +39,7 @@ This system was designed with the following in mind:
 
 ## Project Status
 
-Final year project — developed over an 8-week structured schedule (Planning → Development → Testing → Deployment).
+Final year project - developed over an 8-week structured schedule (Planning → Development → Testing → Deployment).
 
 ## License
 
